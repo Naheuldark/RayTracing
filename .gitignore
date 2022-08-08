@@ -1,0 +1,14 @@
+# Binaries
+**/bin/
+bin-int/
+__pycache__
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+
+# Exclude
+!vendor/premake/bin
